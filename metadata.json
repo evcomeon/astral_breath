@@ -1,0 +1,6 @@
+{
+  "name": "星尘溯息庭 - Astral Breath Garden",
+  "description": "治愈系放置合成游戏：离线沉淀星尘，在线凝形造物。包含中英双语、8x8合成棋盘、星灵陪伴与三级庭院修复。A healing idle-merge game with bilingual support, 8x8 synthesis board, astral companions, and serene garden restoration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
